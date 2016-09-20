@@ -38,10 +38,10 @@
 >
 * 二维码扫描
    + 方法  
-    ```QRCodeManager.scanCode(options, completeCallback)```
+    ```PTQRCodeManager.scanCode(options, completeCallback)```
   + 代码示例
   
-        QRCodeManager.scanCode(["1001"], function (tx) {
+        PTQRCodeManager.scanCode(["1001"], function (tx) {
         //返回二维码，条形码扫描结果字符串
                   console.log(tx);
                   });

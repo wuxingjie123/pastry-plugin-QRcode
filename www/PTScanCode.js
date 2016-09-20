@@ -1,4 +1,4 @@
-
+cordova.define("pastry-plugin-QRCode.scanCode", function(require, exports, module) {
 /*
  *
  * Licensed to the Apache Software Foundation (ASF) under one
@@ -45,3 +45,4 @@ module.exports = {
                
 };
 
+});
