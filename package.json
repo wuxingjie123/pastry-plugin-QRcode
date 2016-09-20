@@ -1,0 +1,20 @@
+{
+  "name": "pastry-plugin-QRCode",
+  "version": "1.0.0",
+  "description": "this is a QRCode for ios",
+  "cordova": {
+    "id": "pastry-plugin-QRCode",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pastryTeam/pastry-plugin-QRCode.git"
+  },
+  "keywords": [
+    "QRCode"
+  ],
+  "author": "wuxingjie123",
+  "license": "MIT"
+}
